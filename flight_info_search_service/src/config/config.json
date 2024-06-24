@@ -1,9 +1,0 @@
-{
-    "development": {
-        "username": "zehan",
-        "password": "StrongPassword123!",
-        "database": "flight_info_search",
-        "host": "127.0.0.1",
-        "dialect": "mysql"
-    }
-}
